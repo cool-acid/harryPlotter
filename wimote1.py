@@ -64,7 +64,7 @@ def main():
 
     plt.show()
 
-    p1.join()
+    p1.kill()
 
 if __name__ == '__main__':
   main()
